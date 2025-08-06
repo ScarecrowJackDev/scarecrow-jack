@@ -43,3 +43,5 @@ You can choose one at: [https://choosealicense.com](https://choosealicense.com)
 Once you have some visuals, you can embed them here to show off your progress:
 ```md
 ![Gameplay Screenshot](screenshot.png)
+
+add frist version of README
